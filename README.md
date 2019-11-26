@@ -1,5 +1,7 @@
 # vapper-vue-cli-examples
 
+An example of using Vapper with Vue CLI.
+
 ## Project setup
 ```
 yarn install
@@ -7,7 +9,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn run dev
 ```
 
 ### Compiles and minifies for production
@@ -15,14 +17,9 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
+### Start production server
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+yarn run start
 ```
 
 ### Customize configuration
