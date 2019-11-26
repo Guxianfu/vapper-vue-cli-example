@@ -1,6 +1,6 @@
 # vapper-vue-cli-examples
 
-An example of using Vapper with Vue CLI.
+An example of using Vapper with Vue CLI 3.
 
 ## Project setup
 ```
