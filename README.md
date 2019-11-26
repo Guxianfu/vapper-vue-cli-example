@@ -9,18 +9,19 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn run dev
+yarn dev
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+yarn build
 ```
 
-### Start production server
+## Start production server
 ```
-yarn run start
+yarn start
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Vapper Configuration Reference](https://vapperjs.org/config.html).
+See [Vue CLI Configuration Reference](https://cli.vuejs.org/config/).
